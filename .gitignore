@@ -1,0 +1,10 @@
+.DS_Store
+*.xcuserstate
+*.build
+*.dia
+*.tlog
+*.o
+*.d
+*.swiftdeps
+*.swiftdeps-
+
